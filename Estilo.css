@@ -1,0 +1,29 @@
+body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #0ad457;
+     }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: hsl(59, 94%, 46%);font-size:38px;
+    text-shadow:2px 2px 1px black;
+   }
+
+ p {
+   color: #0e1afa;
+   text-family: "arial";font-size:19px;
+   }
+
+h2 {
+   color: #a80963;font-size:24px;
+   text-family: "arial";
+   }
+
+.intro {
+    color: #fdf906;
+   }
+
+ 
+ 
